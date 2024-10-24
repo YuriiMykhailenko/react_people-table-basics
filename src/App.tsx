@@ -55,10 +55,6 @@ export const App = () => {
               element={<h1 className="title">Page not found</h1>}
             />
           </Routes>
-
-          <div className="block">
-            <div className="box table-container"></div>
-          </div>
         </div>
       </main>
     </div>
